@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reynaldo MUñoz Flores</h1>
+<h1 align="center">Hi 👋, I'm Reynaldo Muñoz Flores</h1>
 <h3 align="center">A passionate Fullstack developer from Perú</h3>
 
 - 🔭 I’m currently working on **King_Tattoo**
