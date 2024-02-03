@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Fullstack developer from Perú</h3>
 
 - 🔭 I’m currently working on **King_Tattoo**
-- 
-- - 🌱 I’m currently learning **React.js**
+
+-  🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://https://github.com/ReynaldoMunozF](https://github.com/ReynaldoMunozF?tab=repositories)
 
