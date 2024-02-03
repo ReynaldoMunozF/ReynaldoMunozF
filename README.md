@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Reynaldo Muñoz Flores</h1>
 <h3 align="center">A passionate Fullstack developer from Perú</h3>
 
+<img align="right" alt="GIF" src="./develope.gif" width="500" height="320" />
+
 - 🔭 I’m currently working on **King_Tattoo**
 
 -  🌱 I’m currently learning **React.js**
